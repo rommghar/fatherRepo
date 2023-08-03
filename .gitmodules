@@ -1,0 +1,3 @@
+[submodule "sonrepo"]
+	path = sonrepo
+	url = https://gitlab.com/rommagnoli/sonrepo.git
